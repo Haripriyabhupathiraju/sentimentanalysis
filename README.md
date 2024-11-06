@@ -1,2 +1,2 @@
-# ML-MAJOR-APRIL-ML-04-BS1-Haripriya
+# Sentiment Analyzer
 #Sentiment Analyzer with ML(Python) using IMBD REVIEWS DATASET
